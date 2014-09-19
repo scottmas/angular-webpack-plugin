@@ -2,7 +2,7 @@
   "name": "angular-webpack-plugin",
   "version": "0.0.2",
   "main": "lib/index.js",
-  "description": "Makes webpack aware of AngularJS modules.",
+  "description": "Makes webpack aware of AngularJS modules!",
   "homepage": "https://github.com/stackfull/angular-webpack-plugin",
   "bugs": "https://github.com/stackfull/angular-webpack-plugin/issues",
   "author": {
